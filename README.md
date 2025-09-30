@@ -30,6 +30,6 @@
 
 ### 7. Run the below command to run the jar file.
 
-### java -jar employee-0.0.1-SNAPSHOT.jar <Absolute path of the input file>
+### java -jar employee-0.0.1-SNAPSHOT.jar [Absolute path of the input file]
 
 ### 8. Follow the console instructions to test the application.
